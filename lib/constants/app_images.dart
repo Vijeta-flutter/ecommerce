@@ -16,6 +16,14 @@ class AppImages {
   static const hotSale = 'assets/images/hotSale.png';
   static const bag = 'assets/images/bag.png';
   static const sale = 'assets/images/sale.png';
+  static const paymentSucessful = 'assets/images/payment.png';
+  static const getStarted = 'assets/images/getStarted.png';
   // cartScreen
   static const cart1 = 'assets/images/cart/cart1.png';
+  static const cart2 = 'assets/images/cart/cart2.png';
+  static const cart3 = 'assets/images/cart/cart3.png';
+  // checkout
+  static const checkout = 'assets/images/checkout/checkOut.png';
+  static const checkout2 = 'assets/images/checkout/checkOut2.png';
+  static const checkout3 = 'assets/images/checkout/checkOut3.png';
 }

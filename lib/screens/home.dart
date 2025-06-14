@@ -940,7 +940,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       vertical: 6,
                     ),
                     decoration: BoxDecoration(
-                      color: AppColors.pink,
+                      color: AppColors.pinkishRed,
                       borderRadius: BorderRadius.circular(6),
                     ),
                     child: const Text(
